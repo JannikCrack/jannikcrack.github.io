@@ -14,6 +14,11 @@ img{
   border-radius:20%;
 }
 
+.addicon{
+  height: 5%;
+  width: 5%;
+}
+
 @font-face {
   font-family: "San Francisco";
   font-weight: 400;
