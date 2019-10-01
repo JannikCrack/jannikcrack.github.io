@@ -1,14 +1,20 @@
 html{
-font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-background-color: white;
-//background-image: linear-gradient(#ffffff, #F5F5F5);
-color: black;
-text-align:center;
-background-size:auto;
-background-repeat: no-repeat;
+  font-family: "San Francisco";
+  background-color: white;
+  //background-image: linear-gradient(#ffffff, #F5F5F5);
+  color: black;
+  text-align:center;
+  background-size:auto;
+  background-repeat: no-repeat;
 }
 
 img{
   max-width: 50%;
   max-height: 50%;
+}
+
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
 }
