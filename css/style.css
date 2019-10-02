@@ -19,6 +19,11 @@ img{
   width: 10%;
 }
 
+#coffeeicon {
+  color: black;
+  font-size: 40px;
+}
+
 @font-face {
   font-family: "San Francisco";
   font-weight: 400;
