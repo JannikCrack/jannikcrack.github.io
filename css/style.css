@@ -1,31 +1,27 @@
-html{
-  font-family: "San Francisco";
-  background-color: white;
-  color: black;
-  text-align:center;
-  background-size:auto;
-  background-repeat: no-repeat;
+/**** Backgrounds ****/
+.bg-nav{
+    background-color: #3C3F41;
+    color: #C8C8C8;
+}
+.bg-theme{
+    background-color: #47484B;
+    color: #C8C8C8;
+}
+.header .col-12:last-child {
+    border-top: 1px solid  #C8C8C8;
+    text-align:center;
 }
 
-img{
-  max-width: 40%;
-  max-height: 40%;
-  border-radius:20%;
+@media (min-width: 768px) {
+    .header .col-12:last-child {
+        border: 0px;
+        text-align:left;
+        margin-top: 40px;
+    }
 }
 
-.addicon{
-  height: 10%;
-  width: 10%;
-}
-
-#coffeeicon {
-  color: black;
-  font-size: 40px;
-  text-align:center;
-}
-
-@font-face {
-  font-family: "San Francisco";
-  font-weight: 400;
-  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+/**** Text ****/
+.text-grey{
+    color: #C8C8C8;
+    text-align: center;
 }
