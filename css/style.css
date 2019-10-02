@@ -1,10 +1,10 @@
 /**** Backgrounds ****/
 .bg-nav{
-    background-color: #3C3F41;
+    background-color: #2d2e30;
     color: #C8C8C8;
 }
 .bg-theme{
-    background-color: #47484B;
+    background-color: #3C3F41;
     color: #C8C8C8;
 }
 .header .col-12:last-child {
@@ -16,7 +16,7 @@
     .header .col-12:last-child {
         border: 0px;
         text-align:left;
-        margin-top: 40px;
+        margin-top:20px;
     }
 }
 
@@ -24,4 +24,9 @@
 .text-grey{
     color: #C8C8C8;
     text-align: center;
+}
+
+.footer {
+    text-align: center;
+    font-size: 0.9rem;
 }
