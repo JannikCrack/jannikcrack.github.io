@@ -20,6 +20,15 @@
     }
 }
 
+.screens .addicon:last-child {
+    width: 100px;
+}
+@media (min-width: 768px) {
+.screens .addicon:last-child {
+    width: 200px;
+}
+}
+
 /**** Text ****/
 .text-grey{
     color: #C8C8C8;
