@@ -6,9 +6,9 @@ Version: 1.0.1
 Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml
 Filename: debs/com.jannikcrack.aerodock_1.0.1_iphoneos-arm.deb
 Size: 1844
-MD5sum: FDE36A3B9B092AE3D9DA8879A6B0835B
-SHA1: 0A723456BE9530D4F79697EF3951FE832866C52C
-SHA256: 5B9F4F1E4D4769F05584062175F4101F5CB4A00EE1D041EAE07349603A79BA44
+MD5sum: fde36a3b9b092ae3d9da8879a6b0835b
+SHA1: 0a723456be9530d4f79697ef3951fe832866c52c
+SHA256: 5b9f4f1e4d4769f05584062175f4101f5cb4a00ee1d041eae07349603a79ba44
 Description: AeroDock is a simple blurred background that you can use as dockbackground.
 Name: AeroDock
 Author: JannikCrack <JannikCrack@aol.com>
