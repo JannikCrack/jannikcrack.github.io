@@ -25,7 +25,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "A widget.",
+          "markdown": "A clean homescreen widget for xenHTML with Spotify, Instagram, Twitter and Facebook to open the apps.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -38,7 +38,7 @@
         },
         {
           "title": "Version",
-          "text": "1.1",
+          "text": "1.0",
           "class": "DepictionTableTextView"
         },
         {
@@ -61,13 +61,13 @@
         {
           "action": "https://twitter.com/JannikCrack",
           "class": "DepictionTableButtonView",
-          "title": "🐦 Find me on Twitter (@JannikCrack)",
+          "title": "Find me on 🐤 (@JannikCrack)",
           "openExternal": true
         },
         {
           "action": "mailto:jannikcrack@aol.com",
           "class": "DepictionTableButtonView",
-          "title": "✉️ Send me an email",
+          "title": "Send me an ✉️",
           "openExternal": true
         },
         {
@@ -81,7 +81,7 @@
           "class": "DepictionSpacerView"
         },
         {
-          "URL": "https://jannikcrack.github.io/CydiaIcon.png",
+          "URL": "https://jannikcrack.github.io/img/icons/icon.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
