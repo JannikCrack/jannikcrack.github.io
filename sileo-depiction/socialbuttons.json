@@ -1,0 +1,121 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://jannikcrack.github.io/img/headerimages/socialbuttons.png",
+  "tintColor": "#1f1d2a",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Simple Status Bar Theme",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://jannikcrack.github.io/img/screenshots/socialbuttons.png",
+              "fullSizeURL": "https://jannikcrack.github.io/img/screenshots/socialbuttons.png"
+            },
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": "A widget.",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.1",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "JannikCrack",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "action": "https://twitter.com/JannikCrack",
+          "class": "DepictionTableButtonView",
+          "title": "🐦 Find me on Twitter (@JannikCrack)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:jannikcrack@aol.com",
+          "class": "DepictionTableButtonView",
+          "title": "✉️ Send me an email",
+          "openExternal": true
+        },
+        {
+          "action": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jannikcrack%40aol.com&lc=de_DE&item_name=jannikcrack.github.io",
+          "class": "DepictionTableButtonView",
+          "title": "Buy me a ☕️ via PayPal",
+          "openExternal": true
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://jannikcrack.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Initial Release",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
