@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Depends: com.matchstic.xenhtml
 Filename: debs/com.jannikcrack.socialbuttons_1.0_iphoneos-arm.deb
-Size: 15400
+Size: 15500
 MD5sum: 57349CF5339E2F2A9B1FDFBCDF045C40
 SHA1: CADE8FADF5F3383876E543DB9A52EFC79CE88E18
 SHA256: 2AFC5ADF3164286DF6FD78004E499002F06C9F7A31F844D464C1FC1AB0E6D1A4
@@ -28,5 +28,4 @@ Description: Social Buttons is a widget for your homscreen or lockscreen. It dep
 Name: Social Buttons
 Author: JannikCrack <JannikCrack@aol.com>
 Icon: https://jannikcrack.github.io/img/icons/socialbuttons.png
-Depiction: https://jannikcrack.github.io/depictions/socialbuttons.html
 Sileodepiction: https://jannikcrack.github.io/sileo-depiction/socialbuttons.json
