@@ -1,3 +1,20 @@
+Package: com.jannikcrack.socialbuttons
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: JannikCrack <JannikCrack@aol.com>
+Depends: com.matchstic.xenhtml
+Filename: debs/com.jannikcrack.socialbuttons_1.0.1_iphoneos-arm.deb
+Size: 1622612
+MD5sum: 72100d816c76a3e03d33b7cc0c393900
+SHA1: 474eb8af2466fb354db0b49b2d1bc27365dfc2ea
+SHA256: 6159b12c70ceef3095ab910a70da301b2f6f52acb6c039e08a41426403b93a76
+Section: Widgets
+Description: Social Buttons is a widget for your homscreen or lockscreen. It depends xenHTML.
+Author: JannikCrack
+Icon: https://jannikcrack.github.io/img/icons/socialbuttons.png
+Name: Social Buttons
+Sileodepiction: https://jannikcrack.github.io/sileo-depiction/socialbuttons.json
+
 Package: com.jannikcrack.aerodock
 Section: Widgets
 Maintainer: JannikCrack <JannikCrack@aol.com>
@@ -12,20 +29,3 @@ SHA256: 5b9f4f1e4d4769f05584062175f4101f5cb4a00ee1d041eae07349603a79ba44
 Description: AeroDock is a simple blurred background that you can use as dockbackground.
 Name: AeroDock
 Author: JannikCrack <JannikCrack@aol.com>
-
-Package: com.jannikcrack.socialbuttons
-Section: Widgets
-Maintainer: JannikCrack <JannikCrack@aol.com>
-Architecture: iphoneos-arm
-Version: 1.0.1
-Depends: com.matchstic.xenhtml
-Filename: debs/com.jannikcrack.socialbuttons_1.0.1_iphoneos-arm.deb
-Size: 1622612
-MD5sum: fde36a3b9b092ae3d9da8879a6b0835b
-SHA1: 0a723456be9530d4f79697ef3951fe832866c52c
-SHA256: 5b9f4f1e4d4769f05584062175f4101f5cb4a00ee1d041eae07349603a79ba44
-Description: Social Buttons is a widget for your homscreen or lockscreen. It depends xenHTML.
-Name: Social Buttons
-Author: JannikCrack <JannikCrack@aol.com>
-Icon: https://jannikcrack.github.io/img/icons/socialbuttons.png
-Sileodepiction: https://jannikcrack.github.io/sileo-depiction/socialbuttons.json
