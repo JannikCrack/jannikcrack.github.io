@@ -1,3 +1,20 @@
+Package: com.jannikcrack.badgestyles
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JannikCrack <JannikCrack@aol.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/com.jannikcrack.badgestyles_1.0_iphoneos-arm.deb
+Size: 484276
+MD5sum: 49d583be70f6043e2b090dc8c4932e0c
+SHA1: 8023ed506188b99dc913e0d6c145b020d791f16c
+SHA256: 3de5ccedfc9cab9abd96fc4edab4b0b0725acd2d69579c783ff949c07b4931e3
+Section: Themes (Badges)
+Description: Beautiful Badges!
+Author: JannikCrack
+Icon: https://jannikcrack.github.io/img/icons/badgestyles.png
+Name: BadgeStyles
+Sileodepiction: https://jannikcrack.github.io/sileo-depiction/badgestyles.json
+
 Package: com.jannikcrack.socialbuttons
 Version: 1.0.1
 Architecture: iphoneos-arm

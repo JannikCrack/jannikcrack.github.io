@@ -1,0 +1,131 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://jannikcrack.github.io/img/headerimages/badgestyles.png",
+  "tintColor": "#1f1d2a",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Beautiful Badges!",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://jannikcrack.github.io/img/screenshots/badgestyles.png",
+              "fullSizeURL": "https://jannikcrack.github.io/img/screenshots/badgestyles.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://jannikcrack.github.io/img/screenshots/badgestyles1.png",
+              "fullSizeURL": "https://jannikcrack.github.io/img/screenshots/badgestyles1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://jannikcrack.github.io/img/screenshots/badgestyles2.png",
+              "fullSizeURL": "https://jannikcrack.github.io/img/screenshots/badgestyles2.png"
+            },
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": "Beautiful Badges! If you like my work check out my https://jannikcrack.github.io/ and see my other work or buy me a coffee! :) Texted on my iPhone X with Snowboard and Snowboard Label Extension",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "JannikCrack",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "action": "https://twitter.com/JannikCrack",
+          "class": "DepictionTableButtonView",
+          "title": "Find me on 🐤 (@JannikCrack)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:jannikcrack@aol.com",
+          "class": "DepictionTableButtonView",
+          "title": "Send me an ✉️",
+          "openExternal": true
+        },
+        {
+          "action": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jannikcrack%40aol.com&lc=de_DE&item_name=jannikcrack.github.io",
+          "class": "DepictionTableButtonView",
+          "title": "Buy me a ☕️ via PayPal",
+          "openExternal": true
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://jannikcrack.github.io/img/icons/icon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Initial Release",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
