@@ -1,14 +1,14 @@
 /**** Backgrounds ****/
 .bg-nav{
-    background-color: #2d2e30;
-    color: #C8C8C8;
+    background-color: #1C1C1E;
+    color: #FCFCFE;
 }
 .bg-theme{
-    background-color: #3C3F41;
-    color: #C8C8C8;
+    background-color: #2D2E30;
+    color: #FCFCFE;
 }
 .header .col-12:last-child {
-    border-top: 1px solid  #C8C8C8;
+    border-top: 1px solid  #FCFCFE;
     text-align:center;
 }
 
@@ -31,7 +31,7 @@
 
 /**** Text ****/
 .text-grey{
-    color: #C8C8C8;
+    color: #FCFCFE;
     text-align: center;
 }
 
