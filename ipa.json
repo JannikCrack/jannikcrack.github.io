@@ -1,0 +1,29 @@
+{
+  "name": "JannikCrack ipa's",
+  "identifier": "com.jannikcrack.ipa",
+  "sourceURL": "https://raw.githubusercontent.com/JannikCrack/Gbox-Repo/main/apps_gbox.json",
+  "apps": [
+    {
+      "name": "uYouPlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "1.0",
+      "versionDate": "2022-11-10",
+      "size": 115017943,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/uYouPlus.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/JannikCrack/Gbox-Repo/main/icons/com.google.ios.youtube.png"
+    },
+    {
+      "name": "YouTubeReborn",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "1.0",
+      "versionDate": "2022-11-10",
+      "size": 129661988,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/YouTubeReborn.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/JannikCrack/Gbox-Repo/main/icons/com.google.ios.youtube.png"
+    }
+  ]
+}
